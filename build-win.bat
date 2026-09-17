@@ -25,6 +25,3 @@ if %ERRORLEVEL% EQU 0 (
     echo Build failed with exit code: %ERRORLEVEL%
     exit /b %ERRORLEVEL%
 )
-
-
-

@@ -52,5 +52,3 @@ else
     echo "❌ Error: Failed to create $ICNS_OUTPUT"
     exit 1
 fi
-
-
